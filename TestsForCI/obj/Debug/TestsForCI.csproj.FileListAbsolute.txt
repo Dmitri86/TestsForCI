@@ -1,0 +1,9 @@
+C:\Rider\CI\TestsForCI\TestsForCI\bin\Debug\TestsForCI.exe
+C:\Rider\CI\TestsForCI\TestsForCI\bin\Debug\TestsForCI.pdb
+C:\Rider\CI\TestsForCI\TestsForCI\bin\Debug\nunit.framework.dll
+C:\Rider\CI\TestsForCI\TestsForCI\bin\Debug\nunit.framework.xml
+C:\Rider\CI\TestsForCI\TestsForCI\obj\Debug\TestsForCI.csprojAssemblyReference.cache
+C:\Rider\CI\TestsForCI\TestsForCI\obj\Debug\TestsForCI.csproj.CoreCompileInputs.cache
+C:\Rider\CI\TestsForCI\TestsForCI\obj\Debug\TestsForCI.csproj.CopyComplete
+C:\Rider\CI\TestsForCI\TestsForCI\obj\Debug\TestsForCI.exe
+C:\Rider\CI\TestsForCI\TestsForCI\obj\Debug\TestsForCI.pdb
