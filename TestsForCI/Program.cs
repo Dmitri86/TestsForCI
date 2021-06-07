@@ -32,7 +32,7 @@ namespace TestsForCI
         public void Test3()
         {
             var actual = Sum(10, 3);
-            Assert.AreEqual(actual, 14);
+            Assert.AreEqual(actual, 13);
         }
     }
 }
